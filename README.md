@@ -7,7 +7,7 @@ Package license: GPL-3
 
 Feedstock license: BSD 3-Clause
 
-Summary: The relation between the number of species and the number of individuals in a random sample is a classic problem back to Fisher (1943) <doi:10.2307/1411>. We generalize this problem to estimate the number of species represented at least r times in a random sample. In particular when r=1, it becomes the classic problem. We use a mixture of Poisson processes to model sampling procedures and apply a nonparametric empirical Bayes approach to obtain an estimator. For more information on 'preseqR', see Deng C, Daley T and Smith AD (2015) <doi:10.1007/s40484-015-0049-7> and Deng C and Smith AD (2016) <arXiv:1607.02804v2>.
+Summary: Originally as an R version of Preseq <doi:10.1038/nmeth.2375>, the package has extended its functionality to predict the r-species accumulation curve (r-SAC), which is the number of species represented at least r times as a function of the sampling effort. When r = 1, the curve is known as the species accumulation curve, or the library complexity curve in high-throughput genomic sequencing. The package includes both parametric and nonparametric methods, as described by Deng C, et al. (2018) <arXiv:1607.02804v3>. 
 
 
 
