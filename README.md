@@ -14,9 +14,8 @@ Summary: Originally as an R version of Preseq <doi:10.1038/nmeth.2375>, the pack
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-preseqr-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-preseqr-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-preseqr-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-preseqr-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-preseqr-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-preseqr-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-preseqr-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-preseqr-feedstock)
 
 Current release info
 ====================
