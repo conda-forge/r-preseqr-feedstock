@@ -1,11 +1,11 @@
-About r-preseqr
-===============
+About r-preseqr-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-preseqr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=preseqR
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-preseqr-feedstock/blob/main/LICENSE.txt)
 
 Summary: Originally as an R version of Preseq <doi:10.1038/nmeth.2375>, the package has extended its functionality to predict the r-species accumulation curve (r-SAC), which is the number of species represented at least r times as a function of the sampling effort. When r = 1, the curve is known as the species accumulation curve, or the library complexity curve in high-throughput genomic sequencing. The package includes both parametric and nonparametric methods, as described by Deng C, et al. (2018) <arXiv:1607.02804v3>. 
 
